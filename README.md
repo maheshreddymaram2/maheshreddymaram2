@@ -92,11 +92,6 @@ I'm a passionate and self-driven web developer with a strong foundation in full-
 ![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshreddymaram2&show_icons=true&theme=tokyonight)
 
 ---
-
-## 📚 GFG Activity
-
-[![GFG: maheshreddzjrv](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/maheshreddzjrv/)
-
 ## 📫 Let's Connect!
 
 <p align="left">
