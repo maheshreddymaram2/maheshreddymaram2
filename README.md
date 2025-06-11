@@ -68,11 +68,11 @@ I'm a passionate and performance-driven web developer with hands-on experience i
 
 **🔸 IT and Web Developer Intern – Basket Hunt Pvt. Ltd.**  
 📍 *Remote | Aug 2023 – Oct 2023*  
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-internship-human-resources-flaticons-lineal-color-flat-icons.png" width="20"/>  
-- Built backend modules and chat features for a recruiter platform.  
-- Worked with WebSocket, Node.js, Express.js, MongoDB, and MySQL.  
-- Proposed platform improvements after researching HR tech systems.
+<img src="https://www.baskethunt.com/wp-content/uploads/2020/12/cropped-logo-1.jpg" alt="Basket Hunt Logo" width="100"/>  
 
+- Built backend modules and real-time chat features to enhance recruiter–candidate communication.  
+- Worked with WebSocket, Node.js, Express.js, MongoDB, and MySQL.  
+- Proposed improvements to HR tech workflows after market and UX research.
 ## 📌 Projects
 
 🔹 [**SRM Hostel Booking System – Flask**](https://srm-hostel-booking-system-flask.onrender.com)  
