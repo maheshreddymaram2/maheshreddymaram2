@@ -70,7 +70,7 @@ I'm a passionate and performance-driven web developer with hands-on experience i
 🔹 [**SRM Hostel Booking System – Flask**](https://srm-hostel-booking-system-flask.onrender.com)  
 > Responsive booking platform with login, chatbot, automated receipts, and cloud deployment.
 
-🔹 [**Smart Parking System**](https://maheshreddymaram2.github.io/SMART-PARKING-SYSTEM/)  
+🔹 [**Smart Parking System**](https://maheshreddymaram2.github.io/smart-parking-system/)  
 > Multi-slot parking web app with PDF receipt generation and video-enhanced UI.
 
 🔹 [**Fractional Knapsack Solver**](https://maheshreddymaram2.github.io/Fractional-Knapsack-Problem-Solver/)  
