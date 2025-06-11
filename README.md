@@ -119,5 +119,3 @@ I'm a passionate and performance-driven web developer with hands-on experience i
   <a href="https://www.geeksforgeeks.org/user/maheshreddzjrv/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
----
-
