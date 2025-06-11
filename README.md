@@ -107,9 +107,10 @@ I'm a passionate and performance-driven web developer with hands-on experience i
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshreddymaram2&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshreddymaram2&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=maheshreddymaram2&theme=tokyonight&hide_border=false)  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=maheshreddymaram2&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=maheshreddymaram2&theme=tokyonight&hide_border=false) 
+### 📅 GitHub Contributions
 
+[![GitHub Contribution Calendar](https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/GitHub-Contribution-Calendar.gif?raw=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 📫 Let's Connect
