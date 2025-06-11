@@ -121,4 +121,3 @@ I'm a passionate and performance-driven web developer with hands-on experience i
 
 ---
 
-> 💬 “Code with purpose. Build with passion.
