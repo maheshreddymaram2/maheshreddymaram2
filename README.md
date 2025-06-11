@@ -93,10 +93,14 @@ I'm a passionate and self-driven web developer with a strong foundation in full-
 
 ---
 
+## 📚 GFG Activity
+
+[![GFG: maheshreddzjrv](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/maheshreddzjrv/)
+
 ## 📫 Let's Connect!
 
 <p align="left">
-  <a href="mailto:vm2063@srmist.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:maheshreddy.maram23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/venkata-mahesh-reddy-maram-28039626b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/maheshreddymaram/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://github.com/maheshreddymaram2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
