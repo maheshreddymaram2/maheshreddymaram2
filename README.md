@@ -56,15 +56,7 @@ I'm a passionate and performance-driven web developer with hands-on experience i
 📍 *Chennai | Mar 2023 – Apr 2025 (Ongoing)*  
 - Developed internal club tools using React, Node.js, and MongoDB.  
 - Maintained event registration systems and collaborated on full-stack projects.  
-- Supported technical fests by organizing and managing coding contests.
-
-## 💼 Experience & Internships
-
-**🔸 Technical Team Member – Logic Play (SRM Technical Club)**  
-📍 *Chennai | Mar 2023 – Apr 2025 (Ongoing)*  
-- Developed internal club tools using React, Node.js, and MongoDB.  
-- Maintained event registration systems and collaborated on full-stack projects.  
-- Supported technical fests by organizing and managing coding contests.
+- Supported technical events by organizing and managing coding contests.
 
 **🔸 IT and Web Developer Intern – Basket Hunt Pvt. Ltd.**  
 📍 *Remote | Aug 2023 – Oct 2023*  
