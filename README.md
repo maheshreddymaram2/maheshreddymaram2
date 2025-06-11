@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Venkata Mahesh Reddy Maram!
+# 👋 Hello, I'm Venkata Mahesh Reddy Maram!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maheshreddymaram2&label=Profile%20views&color=0e75b6&style=flat" alt="maheshreddymaram2" />
@@ -6,18 +6,18 @@
 
 ## 💡 About Me
 
-I'm a passionate and self-driven web developer with a strong foundation in full-stack development and an interest in AI and emerging technologies. I love building real-world solutions and continuously growing my problem-solving abilities.
+I'm a passionate and performance-driven web developer with hands-on experience in full-stack projects and a deep interest in building real-world solutions. With a solid academic background and strong problem-solving skills, I'm actively seeking opportunities to apply my knowledge in innovative and collaborative tech environments.
 
-- 🎓 B.Tech in Computer Science @ SRM Institute of Science and Technology (CGPA: 9.51)
-- 💻 Full-stack Developer | IoT Enthusiast | Hackathon Competitor
-- 🌱 Currently exploring Data Visualization & Cloud
-- ⚡ Motto: "Every second matters."
+- 🎓 B.Tech CSE @ SRM Institute of Science and Technology (CGPA: 9.51)
+- 💻 Full-stack Developer | IoT Enthusiast | Hackathon Finalist
+- 🌱 Currently exploring Data Visualization, Cloud Platforms & Backend Architecture
+- ⚡ Motto: *"Every second matters."*
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 👨‍💻 Languages  
+### 👨‍💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,7 +35,7 @@ I'm a passionate and self-driven web developer with a strong foundation in full-
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🧠 Data & Analytics  
+### 📊 Data & Analytics  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -50,49 +50,69 @@ I'm a passionate and self-driven web developer with a strong foundation in full-
 
 ---
 
+## 💼 Experience & Internships
+
+**🔸 Technical Team Member – Logic Play (SRM Technical Club)**  
+📍 *Chennai | Mar 2023 – Apr 2025 (Ongoing)*  
+- Developed internal club tools using React, Node.js, and MongoDB.  
+- Maintained event registration systems and collaborated on full-stack projects.  
+- Supported technical fests by organizing and managing coding contests.
+
+**🔸 IT and Web Developer Intern – Basket Hunt Pvt. Ltd.**  
+📍 *Remote | Aug 2023 – Oct 2023*  
+- Built backend modules and chat features for a recruiter platform.  
+- Worked with WebSocket, Node.js, Express.js, MongoDB, and MySQL.  
+- Proposed platform improvements after researching HR tech systems.
+
+---
+
 ## 📌 Projects
 
 🔹 [**SRM Hostel Booking System – Flask**](https://srm-hostel-booking-system-flask.onrender.com)  
-> A responsive hostel booking platform with login, room selection, chatbot support, and cloud deployment.
+> Responsive booking platform with login, chatbot, automated receipts, and cloud deployment.
 
 🔹 [**Smart Parking System**](https://maheshreddymaram2.github.io/SMART-PARKING-SYSTEM/)  
-> Multi-slot web booking with dynamic receipts and authentication.
+> Multi-slot parking web app with PDF receipt generation and video-enhanced UI.
 
 🔹 [**Fractional Knapsack Solver**](https://maheshreddymaram2.github.io/Fractional-Knapsack-Problem-Solver/)  
-> Visual optimization app with secure login and user-friendly UI.
+> Algorithm visualization tool with secure login and real-time UI feedback.
 
-🔹 [**Smart Waste Management (Tinkercad)**](https://www.tinkercad.com/things/7SXf85Zj3UG-smart-waste-management-system)  
-> Arduino-powered IoT system for automatic bin control and waste monitoring.
+🔹 [**Smart Waste Management – Tinkercad**](https://www.tinkercad.com/things/7SXf85Zj3UG-smart-waste-management-system)  
+> Arduino-powered auto-bin system with LED indicators and servo-based control.
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 Flipkart Grid 6.0 – National-level software development challenge  
-- 🚀 SRM Hackathon 8.0 – Developed innovative tech solutions  
-- 💡 Appizap Hackathon – Shortlisted for Round 2
+- 🧠 **Flipkart Grid 6.0** – Competed in national product dev challenge  
+- 🚀 **SRM Hackathon 8.0** – Delivered working prototype in under 24 hrs  
+- 💡 **Appizap Hackathon** – Shortlisted to Round 2 from national pool
 
 ---
 
 ## 📚 Certifications
 
-- ☁️ Introduction to Cloud Computing – *IBM (Coursera)*  
-- 📊 Foundations: Data, Data, Everywhere – *Google (Coursera)*
+- ☁️ *Introduction to Cloud Computing* – IBM (Coursera)  
+- 📊 *Foundations: Data, Data, Everywhere* – Google (Coursera)
 
 ---
 
-## 📊 LeetCode Stats
+## 📊 Coding Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/maheshreddymaram?ext=contest)](https://leetcode.com/u/maheshreddymaram/)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshreddymaram2&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshreddymaram2&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshreddymaram2&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=maheshreddymaram2&theme=tokyonight&hide_border=false)  
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=maheshreddymaram2&theme=tokyonight)
 
 ---
-## 📫 Let's Connect!
+
+## 📫 Let's Connect
 
 <p align="left">
   <a href="mailto:maheshreddy.maram23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -104,4 +124,4 @@ I'm a passionate and self-driven web developer with a strong foundation in full-
 
 ---
 
-> “Code with purpose. Build with passion.”
+> 💬 “Code with purpose. Build with passion.
