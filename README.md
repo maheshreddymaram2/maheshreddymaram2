@@ -76,7 +76,7 @@ I'm a passionate and performance-driven web developer with hands-on experience i
 🔹 [**Fractional Knapsack Solver**](https://maheshreddymaram2.github.io/Fractional-Knapsack-Problem-Solver/)  
 > Algorithm visualization tool with secure login and real-time UI feedback.
 
-🔹 [**Smart Waste Management – Tinkercad**](https://www.tinkercad.com/things/7SXf85Zj3UG-smart-waste-management-system)  
+🔹 [**Smart Waste Management – Tinkercad**](https://www.tinkercad.com/things/7SXf85Zj3UG-smart-waste-management-iot)  
 > Arduino-powered auto-bin system with LED indicators and servo-based control.
 
 ---
