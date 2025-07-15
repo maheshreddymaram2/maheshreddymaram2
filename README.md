@@ -8,7 +8,7 @@
 
 I'm a passionate and performance-driven web developer with hands-on experience in full-stack projects and a deep interest in building real-world solutions. With a solid academic background and strong problem-solving skills, I'm actively seeking opportunities to apply my knowledge in innovative and collaborative tech environments.
 
-- 🎓 B.Tech CSE @ SRM Institute of Science and Technology (CGPA: 9.51)
+- 🎓 B.Tech CSE @ SRM Institute of Science and Technology (CGPA: 9.52)
 - 💻 Full-stack Developer | IoT Enthusiast | Hackathon Finalist
 - 🌱 Currently exploring Data Visualization, Cloud Platforms & Backend Architecture
 - ⚡ Motto: *"Every second matters."*
