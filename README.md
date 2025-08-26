@@ -6,7 +6,12 @@
 
 ## 💡 About Me
 
-I'm a passionate and performance-driven web developer with hands-on experience in full-stack projects and a deep interest in building real-world solutions. With a solid academic background and strong problem-solving skills, I'm actively seeking opportunities to apply my knowledge in innovative and collaborative tech environments.
+Self-driven Software Engineer and Data Enthusiast with expertise in Full-Stack Web Development, Backend
+ Services, IoT Integration, and Data Analysis. Skilled in C, C++, Python, JavaScript, React.js, Node.js, Express.js,
+ Flask, MySQL, MongoDB, and data visualization tools (NumPy, Pandas, Matplotlib, Seaborn, Power BI). Strong
+ foundation in Data Structures & Algorithms, Object-Oriented Programming, SDLC, and Agile methodologies.
+ Experienced in delivering scalable solutions, optimizing performance, and leveraging data-driven insights to solve
+ real-world problems.
 
 - 🎓 B.Tech CSE @ SRM Institute of Science and Technology (CGPA: 9.52)
 - 💻 Full-stack Developer | IoT Enthusiast | Hackathon Finalist
