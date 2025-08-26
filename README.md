@@ -6,11 +6,7 @@
 
 ## 💡 About Me
 
-  I’m a self-driven Software Engineer and Data Enthusiast with expertise in Full-Stack Web Development, Backend Services, IoT Integration, and Data Analysis.
-
-I’m skilled in C, C++, Python, JavaScript, React.js, Node.js, Express.js, Flask, MySQL, MongoDB, and data visualization tools such as NumPy, Pandas, Matplotlib, Seaborn, and Power BI.
-
-With a strong foundation in Data Structures & Algorithms, OOP, SDLC, and Agile methodologies, I enjoy building scalable solutions, optimizing performance, and using data-driven insights to solve real-world problems.
+  I’m a self-driven Software Engineer and Data Enthusiast with expertise in Full-Stack Web Development, Backend Services, IoT Integration, and Data Analysis. Skilled in C, C++, Python, JavaScript, React.js, Node.js, Express.js, Flask, MySQL, and MongoDB, along with data visualization tools such as NumPy, Pandas, Matplotlib, Seaborn, and Power BI. With a strong foundation in Data Structures & Algorithms, Object-Oriented Programming, SDLC, and Agile methodologies, I focus on delivering scalable solutions, optimizing performance, and leveraging data-driven insights to solve real-world problems.
 
 - 🎓 B.Tech CSE @ SRM Institute of Science and Technology (CGPA: 9.52)
 - 💻 Full-stack Developer | IoT Enthusiast | Hackathon Finalist
