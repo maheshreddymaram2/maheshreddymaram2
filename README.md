@@ -6,7 +6,7 @@
 
 ## 💡 About Me
 
-Self-driven Software Engineer and Data Enthusiast with expertise in Full-Stack Web Development, Backend
+  Self-driven Software Engineer and Data Enthusiast with expertise in Full-Stack Web Development, Backend
  Services, IoT Integration, and Data Analysis. Skilled in C, C++, Python, JavaScript, React.js, Node.js, Express.js,
  Flask, MySQL, MongoDB, and data visualization tools (NumPy, Pandas, Matplotlib, Seaborn, Power BI). Strong
  foundation in Data Structures & Algorithms, Object-Oriented Programming, SDLC, and Agile methodologies.
