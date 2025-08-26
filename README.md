@@ -59,8 +59,7 @@
 - Supported technical events by organizing and managing coding contests.
 
 **🔸 IT and Web Developer Intern – Basket Hunt Pvt. Ltd.**  
-📍 *Remote | Aug 2023 – Oct 2023*  
-<img src="C:\Users\Lenovo\OneDrive\Desktop\baskethuntlogo.jpeg" alt="Basket Hunt Logo" width="100"/>  
+📍 *Remote | Aug 2023 – Oct 2023*   
 
 - Built backend modules and real-time chat features to enhance recruiter–candidate communication.  
 - Worked with WebSocket, Node.js, Express.js, MongoDB, and MySQL.  
